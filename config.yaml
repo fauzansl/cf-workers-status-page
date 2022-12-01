@@ -37,3 +37,9 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+    
+    - id: aksenaid.com
+    name: Helios Demo Dashboard
+    url: 'https://aksenaid.com'
+    method: GET
+    expectStatus: 200
